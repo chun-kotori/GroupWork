@@ -118,6 +118,7 @@ public class Anagrams extends JFrame {
         fileMenu = new javax.swing.JMenu();
         aboutMenuItem = new javax.swing.JMenuItem();
         exitMenuItem = new javax.swing.JMenuItem();
+        
 
         setTitle("hasegawa_wakamatsu_ネットワーキング");
         addWindowListener(new java.awt.event.WindowAdapter() {
